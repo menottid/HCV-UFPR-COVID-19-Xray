@@ -1,6 +1,6 @@
 # HCV-UFPR COVID-19 Xray dataset
 
-This dataset, called HCV-UFPR COVID-19 Xray dataset was introducted in [our](https://doi.org/10.1007/s42600-021-00151-6) RBE paper.
+This dataset, called HCV-UFPR COVID-19 Xray dataset was introducted in [our RBE](https://doi.org/10.1007/s42600-021-00151-6) paper.
 
 Brazil is one of the countries most affected by covid-19, with over 6 million confirmed cases, to date.
 The Hospital da Cruz Vermelha from Curitiba, located in the state of Paraná, southern Brazil, received and documented some of those cases.
