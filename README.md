@@ -1,6 +1,6 @@
 # HCV-UFPR COVID-19 Xray dataset
 
-This dataset, called HCV-UFPR COVID-19 Xray dataset was introducted in ???
+This dataset, called HCV-UFPR COVID-19 Xray dataset was introducted in our RBE paper [1].
 
 Brazil is one of the countries most affected by covid-19, with over 6 million confirmed cases, to date.
 The Hospital da Cruz Vermelha from Curitiba, located in the state of Paraná, southern Brazil, received and documented some of those cases.
@@ -28,23 +28,23 @@ In general, a download link will take 1-3 business days to issue. Failure to fol
 
 If you use the HCV-UFPR COVID-19 Xray dataset in your research, please cite our paper:
 
-* R. Laroca, E. V. Cardoso, D. R. Lucio, V. Estevam, and D. Menotti, “On the Cross-dataset Generalization for License Plate Recognition” in International Conference on Computer Vision Theory and Applications (VISAPP), Feb 2022, pp. 1–13.
+* Eduardo Luz, Pedro Silva, Rodrigo Silva, Ludmila Silva, João Guimarães, Gustavo Miozzo, Gladston Moreira, and David Menotti, “Towards an effective and efficient deep learning model for COVID-19 patterns detection in X-ray images” in Research on Biomedical Engineering (RBE), April 2021, pp. 1–14, doi: https://doi.org/10.1007/s42600-021-00151-6.
 
 ```
-@inproceedings{laroca2022cross,
-  title = {On the Cross-dataset Generalization for License Plate Recognition},
-  author = {R. {Laroca} and E. V. {Cardoso} and D. R. {Lucio} and V. {Estevam} and D. {Menotti}},
-  year = {2022},
-  month = {Feb},
-  booktitle = {International Conference on Computer Vision Theory and Applications (VISAPP)},
+@article{luz:2021,
+  title = {Towards an effective and efficient deep learning model for COVID-19 patterns detection in X-ray images},
+  author = {Eduardo Luz, Pedro Silva, Rodrigo Silva, Ludmila Silva, João Guimarães, Gustavo Miozzo, Gladston Moreira, and David Menotti},
+  year = {2021},
+  month = {April},
+  journal = {Research on Biomedical Engineering (RBE)},
   volume = {},
   number = {},
-  pages = {1-13},
-  doi = {},
-  issn={2184-4321},
+  pages = {1-14},
+  doi = {10.1007/s42600-021-00151-6},
+  issn={2446-4740},
 }
 ```
 
 ## Contact
 
-Please contact Rayson Laroca ([rblsantos@inf.ufpr.br](mailto:rblsantos@inf.ufpr.br)) with questions or comments.
+Please contact David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)) with questions or comments.
