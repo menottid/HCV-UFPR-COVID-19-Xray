@@ -20,7 +20,7 @@ COVID-19.
 
 The HCV-UFPR COVID-19 Xray dataset is released for academic research only and is free to researchers from educational or research institutes for **non-commercial purposes**. 
 
-To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/https://github.com/menottid/HCV-UFPR%20COVID-19%20Xray%20License%20Agreement.pdf), fill it out and send it back to Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
+To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out and send it back to Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)). **Your e-mail must be sent from a valid university account** (.edu, .ac or similar).
 
 In general, a download link will take 1-3 business days to issue. Failure to follow the instructions may result in no response.
 
