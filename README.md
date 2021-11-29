@@ -10,7 +10,10 @@ The images are labeled in two classes, COVID-19 and non-COVID, and there are no 
 The dataset is private, but it can be made available upon request.
 
 Here are some examples from the dataset:  
-<img src="./media/samples.png"/> Note: we show a zoomed-in version of the vehicle’s LP in the bottom right corner of the images in the last column for better viewing of the LP layouts.
+<img src="./media/samples.png"/> Note: (a) X-ray of a
+subject infected with COVID-19.
+(b) X-ray of a subject without
+COVID-19.
 <br>
 
 ## How to obtain the Dataset
